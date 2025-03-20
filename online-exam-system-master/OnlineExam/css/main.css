@@ -98,7 +98,7 @@ input[type="submit"] {
   margin: 0 0 0 70px;
   padding: 0;
 }
-.segment ul  li{}
+/* .segment ul  li{} */
 .segment ul li a {
 	font-family: "Times New Roman", Georgia, Serif;
   border: 1px solid #3399ff;
