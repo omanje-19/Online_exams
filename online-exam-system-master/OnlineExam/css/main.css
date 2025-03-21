@@ -1,9 +1,10 @@
  *{margin:0;padding:0;outline:none}
  body{font-family:verdana}.phpcoding{width:900px; margin: 0 auto;background:#4d49f2}
  .headeroption {
-  background: #444 url("../img/banner.png") no-repeat scroll 0 0;
+  background: #444 url("../img/young-people-exams.jpg") no-repeat scroll 0 0;
   border-bottom: 2px solid #444444;
   height: 150px;
+  width: 100%;
 }
 .success{
   color:green;
